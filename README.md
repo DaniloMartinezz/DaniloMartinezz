@@ -1,7 +1,54 @@
-## Ola Dev! Sou o Danilo. Seja bem vindo!
+# Olá! 👋
+
+Sou Danilo, um Dev Full Stack apaixonado por transformar linhas de código em experiências incríveis!
+
+## Sobre Mim 🚀
+
+- 🎓 Formando em Análise e Desenvolvimento de Sistemas ADS pela FIAP.
+- 💼 Atualmente estagiário de Sistemas na FIESP.
+- 🌱 Sempre em busca de novos desafios e aprendizados.
+- 💡 Entusiasta de Razor e .NET, com um amor especial por Javascript.
+
+## Tecnologias & Habilidades 💻
+
+Front-end: HTML, CSS, JavaScript, Razor  
+Back-end: C#, .NET, ASPNET Core  
+Bancos de Dados: SQL Server
+Ferramentas: Git, VS, Postman 
+
+## Projetos 💼
+
+- [Projeto 1](link_para_o_projeto): -
+- [Projeto 2](link_para_o_projeto): -
+- [Projeto 3](link_para_o_projeto): -
+
+
+## Contribuições 🌟
+
+Adoro contribuir para projetos de código aberto! Se você tem um projeto legal, me chame que estou pronto para ajudar!
+
+## Estatísticas 📊
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DaniloMartinezz&show_icons=true&theme=radical)](https://github.com/DaniloMartinezz)
+
+## Contato 📬
+
+Vamos criar algo incrível juntos! Me encontre online:
+
+- Email: danilomartinez.dev@gmail.com
+- LinkedIn: [[danilomartinezz](https://www.linkedin.com/in/danilomartinezz/)]
+- Website: [[Portfólio](https://danilomartinezz.github.io/portfolio_DaniloMartinez/)]
+- GitHub: [(https://github.com/DaniloMartinezz]
+
+Vou adorar ouvir de você! 😊✨
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/DaniloMartinezz">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DaniloMartinezz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMartinezz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
