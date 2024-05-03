@@ -1,4 +1,4 @@
-# Olá! 👋
+![D95A149C-58BE-4AAF-9438-9A3AE5A96F67](https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/0b1fbe66-4894-4bfa-8bd4-2ba6f775c951)
 
 
 
@@ -46,28 +46,13 @@ Vamos criar algo incrível juntos! Me encontre online:
 - LinkedIn: [[danilomartinezz](https://www.linkedin.com/in/danilomartinezz/)]
 - Website: [[Portfólio](https://danilomartinezz.github.io/portfolio_DaniloMartinez/)]
 - GitHub: [(https://github.com/DaniloMartinezz]
-
-Vou adorar ouvir de você! 😊✨
-
-
-
-
-
-
-
-
-
-
-  
-  ##
  
 <div> 
  
   <a href="https://instagram.com/dan_martinezz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/martinezgfc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dmbelem@uniara.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danilomartinez.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilomartinezz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
