@@ -27,7 +27,7 @@ Ferramentas: Git, VS, Postman
 
 
 ![badge_sfsiin](https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/79263cfb-b484-463a-beb0-be1e11674122)<svg width="248" height="248" viewBox="0 0 248 248" fill="none" xmlns="http://www.w3.org/2000/svg">
-![16589309516634890281554222019826](https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/4f52e73d-ec81-415c-b903-6feaf1a7fdd9)
+
 
 ## Estatísticas 📊
 <div style="display:flex; justify-content: space-between;">
