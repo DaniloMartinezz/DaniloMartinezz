@@ -1,6 +1,8 @@
 # Olá! 👋
 
-Sou Danilo, um Dev Full Stack apaixonado por transformar linhas de código em experiências incríveis!
+
+
+Seja bem vindo ao meu github! Aqui você encontra projetos Frontend e Fullstack. Busco participar de projetos da comunidade e ajudar.
 
 ## Sobre Mim 🚀
 
@@ -8,29 +10,34 @@ Sou Danilo, um Dev Full Stack apaixonado por transformar linhas de código em ex
 - 💼 Atualmente estagiário de Sistemas na FIESP.
 - 🌱 Sempre em busca de novos desafios e aprendizados.
 - 💡 Entusiasta de Razor e .NET, com um amor especial por Javascript.
+<img src="https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/7a477a51-6328-41b5-99db-28bd2ecd85d8" width="400" height="400">
 
 ## Tecnologias & Habilidades 💻
 
 Front-end: HTML, CSS, JavaScript, Razor  
 Back-end: C#, .NET, ASPNET Core  
 Bancos de Dados: SQL Server
+Nuvem: AWS Cloud
 Ferramentas: Git, VS, Postman 
 
 ## Projetos 💼
 
-- [Projeto 1](link_para_o_projeto): -
-- [Projeto 2](link_para_o_projeto): -
-- [Projeto 3](link_para_o_projeto): -
+
+## Certificados e Badges 💼
 
 
-## Contribuições 🌟
-
-Adoro contribuir para projetos de código aberto! Se você tem um projeto legal, me chame que estou pronto para ajudar!
+![badge_sfsiin](https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/79263cfb-b484-463a-beb0-be1e11674122)<svg width="248" height="248" viewBox="0 0 248 248" fill="none" xmlns="http://www.w3.org/2000/svg">
+![16589309516634890281554222019826](https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/4f52e73d-ec81-415c-b903-6feaf1a7fdd9)
 
 ## Estatísticas 📊
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DaniloMartinezz&show_icons=true&theme=radical)](https://github.com/DaniloMartinezz)
-
+<div style="display:flex; justify-content: space-between;">
+  <a href="https://github.com/DaniloMartinezz">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DaniloMartinezz&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/DaniloMartinezz">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMartinezz&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 ## Contato 📬
 
 Vamos criar algo incrível juntos! Me encontre online:
@@ -46,18 +53,11 @@ Vou adorar ouvir de você! 😊✨
 
 
 
-<div align="center">
-  <a href="https://github.com/DaniloMartinezz">
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMartinezz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
+
+
+
+
   
   ##
  
