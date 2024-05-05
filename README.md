@@ -9,12 +9,12 @@ Seja bem vindo ao meu github! Aqui você encontra projetos Frontend e Fullstack.
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas ADS pela FIAP.
 - 💼 Atualmente estagiário de Sistemas na FIESP.
 - 🌱 Sempre em busca de novos desafios e aprendizados.
-- 💡 Entusiasta de Razor e .NET, com um amor especial por Javascript.
+- 💡 Estudo Razor e .NET, com um amor especial por Javascript e React.js.
 <img src="https://github.com/DaniloMartinezz/DaniloMartinezz/assets/104922291/7a477a51-6328-41b5-99db-28bd2ecd85d8" width="400" height="400">
 
 ## Tecnologias & Habilidades 💻
 
-Front-end: HTML, CSS, JavaScript, Razor  
+Front-end: HTML, CSS, JavaScript, Razor, React.js.
 Back-end: C#, .NET, ASPNET Core  
 Bancos de Dados: SQL Server
 Nuvem: AWS Cloud
